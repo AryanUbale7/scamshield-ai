@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://scamshield-ai-swart.vercel.app/sitemap.xml
