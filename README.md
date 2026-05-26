@@ -1,6 +1,6 @@
 # 🛡️ ScamShield AI
 
-> Real-time AI-powered scam detection from call transcripts. Built with Next.js 14, Gemini AI, and Antigravity workflow automation.
+> Real-time AI-powered scam detection from call transcripts. Built with Next.js 14, Google Gemini AI, and Antigravity workflow automation.
 
 ## ✨ Features
 
